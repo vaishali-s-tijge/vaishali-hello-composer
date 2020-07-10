@@ -1,5 +1,5 @@
 {
-    "name": "vaishali/hello-world",
+    "name": "vaishali/helloworld",
     "description": "This is a test package created as assignement for composer",
     "type": "library",
     "authors": [
