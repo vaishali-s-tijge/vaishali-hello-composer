@@ -2,6 +2,7 @@
     "name": "vaishali/hello-world",
     "description": "This is a test package created as assignement for composer",
     "type": "library",
+    "license": "VST"
     "authors": [
         {
             "name": "Vaishali Tijge",
