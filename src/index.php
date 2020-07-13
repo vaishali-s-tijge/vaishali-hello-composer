@@ -1,6 +1,6 @@
 <?php
 
-namespace vaishali/helloworld;
+namespace vaishali/HelloWorld;
 
 class Index {
 	public function sayHello( $strGreet ) {
